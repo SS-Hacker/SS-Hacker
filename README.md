@@ -1,7 +1,7 @@
 
 <h2 align="center">
   Welcome to SS-Hacker World!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnppbHl4dzVmeWVmYm5lNDB0dmRqdjRsaTh1ZXN0aGE0aDQzdDJpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2hgs0tfvTzTzlZPaqG/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnppbHl4dzVmeWVmYm5lNDB0dmRqdjRsaTh1ZXN0aGE0aDQzdDJpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2hgs0tfvTzTzlZPaqG/giphy.gif" width="50">
 </h2>
 <p align="center">
   <a href="https://github.com/SS-Hacker"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
