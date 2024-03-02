@@ -20,7 +20,7 @@
   <samp>
     <a href="">「 Google Me 」</a>
     <br>
-    「 I am a Cyber Security Analyst from <b>Chandigargh</b> 」
+    「 I am a Cyber Security Analyst from <b>Chandigarh</b> 」
     <br>
     <br>
   </samp>
