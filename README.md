@@ -61,7 +61,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- ❤️ I Love Hacking<br>
+ ❤️ I Love Hacking <br/><br/>
  ✌️ &emsp; Enjoy to Sharing Knowledge <br/><br/>
  ❤️ &emsp; Love to cyber security and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sunildixit984@gmail.com<br/><br/>
@@ -74,7 +74,7 @@
 <br/>
 
 ## Use To Code
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
