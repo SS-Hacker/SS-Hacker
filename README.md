@@ -1,10 +1,10 @@
 
 <h2 align="center">
   Welcome to SS-Hacker World!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnppbHl4dzVmeWVmYm5lNDB0dmRqdjRsaTh1ZXN0aGE0aDQzdDJpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2hgs0tfvTzTzlZPaqG/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnppbHl4dzVmeWVmYm5lNDB0dmRqdjRsaTh1ZXN0aGE0aDQzdDJpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2hgs0tfvTzTzlZPaqG/giphy.gif" width="85">
 </h2>
 <p align="center">
-  <a href="https://github.com/SS-Hacker"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/SS-Hacker"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF708&random=false&width=435&lines=I+am+Ethical+Hacker+%3CSS-Hacker%3E;Only+3%2B+years+experience+in+Cyber+Security;Always+learning+new+;My+You+Tube+Channel+Name+%5BThe+Big+Cyber+Experts%5D" alt="Typing SVG" /></a>"></a>
 </p>
 
 Intro
