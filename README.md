@@ -1,21 +1,13 @@
 
-<!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to SS-Hacker World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
-
-<!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/SS-Hacker"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -41,8 +33,8 @@
  <a href="https://www.linkedin.com/in/sunil-dixit-341193236" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sunil Dixit"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <!-- <a href="https://dev.to/SS-Hacker" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Sunil Dixit" />
  </a> -->
  <a href="https://twitter.com/thebigcyberexperts" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -61,7 +53,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- ❤️ I Love Hacking <br/><br/>
+ ❤️ &emsp; I Love Hacking <br/><br/>
  ✌️ &emsp; Enjoy to Sharing Knowledge <br/><br/>
  ❤️ &emsp; Love to cyber security and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sunildixit984@gmail.com<br/><br/>
